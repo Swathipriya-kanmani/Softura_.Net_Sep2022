@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GixCNjEQJRWoDT/WhSnAyBNw92dzRKYWvpMd/lvU6ls=",
+  "Source": "ChefApp",
+  "BasePath": "_content/ChefApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
